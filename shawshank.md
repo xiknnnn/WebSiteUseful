@@ -26,41 +26,61 @@ meek有aws、ms在天朝很多公司使用服务，以至gfw不敢随便封公�
 * 毕竟也要在内地赚钱而且也是属于行政特区，你懂我意思吧。除了香港还有哪呢？嘿嘿嘿...爱国上网，爱国上网。
 
 ### sock代理
+
 代表性的shadowssocks、shadowssocksR，可以说是为爱国而生了，密码技术、混淆、伪装三个关键词
 
 ## 软件需求
+
 由于支持各种协议的爱国上网软件很多，这里列出比较有代表性的vpn、proxy工具
 
-### 由于前面说的，所以1-4这范围的VPN只能救急用
+### 免费性质的VPN
+
+1-4这范围的VPN只能救急用，5可以经常使用
 1. gatevpn
 2. openvpn
 3. psiphon
 4. whoer
+5. betternet
 
-### 5-8集合中的软件，某些方面具有隐匿性与规避风险的措施，相对来说速度快为常用工具
+### 6-7有可选免费试用选项的vpn
+
+6速度还不错，7速度较为一般
+
+6. SurfEasyVPN
+7. Windscribe
+
+### 8-10典型付费vpn
+
+速度都很快，游戏加速也还不错，价钱相对较高
+
+8. VyprVPN
+9. AstrillVPN
+10. ComodoEasyVPN	
+
+### 5-9代理软件
+
+某些方面具有隐匿性与规避风险的措施，相对来说速度快为常用工具,9为可试用付费代理
+
 5. shadowsocks
 6. shadowsocksR
-7. lantern
-8. betternet
+7. brook
+8. v2ray
+9. lantern
 
-### 9-13付费vpn的典型了速度很快，游戏加速也还不错，价钱相对较高
-9. VyprVPN
-10. AstrillVPN
-11. ComodoEasyVPN	
-12. SurfEasyVPN
-13. Windscribe
+### 浏览器与chrome扩展
 
-### 浏览器与chrome扩展，14、16救急使用，15、17、18较常使用可必备
-14. tor browser
-15. opera browser
-16. setupVPN
-17. ininja
-18. Proxy SwitchyOmega
+10、11是浏览器其余均为扩展软件，10、12救急使用，11、13、14较常使用可必备
+
+10. tor browser
+11. opera browser
+12. setupVPN
+13. ininja
+14. Proxy SwitchyOmega
 
 ### 建议：
 
 * **chrome扩展至少需要2个**
-* **PC上至少有2个或以上爱国上网软件比较好，推荐存在8个**
+* **PC上至少有2个或以上爱国上网软件比较好，推荐存在13个**
 
 
 ## 爱国上网奇技淫巧
