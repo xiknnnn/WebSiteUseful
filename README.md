@@ -8,7 +8,7 @@
 
 ## 前言
 
-我好像明白了什么...***DISGUSTING！BOLLOCKS！DAMN IT！！！*** 有问题或有不错的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)，关于[感谢者Md](https://github.com/loremwalker/WebSiteUseful/blob/master/CONTRIBUTING.md)
+我好像明白了什么...***DISGUSTING！BOLLOCKS！DAMN IT！！！*** 有疑问或网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)，关于[感谢者Md](https://github.com/loremwalker/WebSiteUseful/blob/master/CONTRIBUTING.md)
 
 ## 相关维基
 
