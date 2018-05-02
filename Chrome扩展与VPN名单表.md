@@ -12,7 +12,6 @@ vpn|使用限制|
 |[ExpressVPN](https://www.expressvpn.com)|付费|
 |[protonvpn](https://protonvpn.com/download/)|付费|
 |[CactusVpn](https://www.cactusvpn.com)|付费|
-|[PlexVpn](https://www.plexvip.com/)|付费|
 |[ibvpn](https://www.ibvpn.com)|付费|
 |(p) [Google访问助手](http://www.ggfwzs.com/)|需要设置主页且只能访问Google服务|
 |[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
