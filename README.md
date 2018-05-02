@@ -5,9 +5,9 @@
 **仅面向海外华人用户，中国境内居民禁止使用，并请立即关闭本网站！分享仅进行科研学习，切勿用于其他用途。**
 
 
-## 前言
+## 有内容请发issue
 
-我好像明白了什么...有疑问或网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
+我好像明白了什么...如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
 
 ## 相关维基
 
