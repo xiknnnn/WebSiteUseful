@@ -42,7 +42,7 @@ vpn|使用限制|
 * https://www.vpnbook.com/freevpn
 * https://www.freeopenvpn.org/en/connect.php
 
-## 封杀殆尽或已消亡的VPN名单
+## 消亡VPN名单
 |vpn|
 |:-:|
 |greenvpn|
