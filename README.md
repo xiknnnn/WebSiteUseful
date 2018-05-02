@@ -7,7 +7,7 @@
 
 ## 前言
 
-我好像明白了什么...有疑问或网址请发issues，关于[issue请参考这个模板]
+我好像明白了什么...有疑问或网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
 
 ## 相关维基
 
