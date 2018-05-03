@@ -22,10 +22,13 @@
 * [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)     
 * [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)  
 
- 有内容请发issue
+有内容请发issue
 
-如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
+如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；
 
+ps:
+
+另在telegram上，发现[kindle群组](https://t.me/zebook),以及[书群的github项目](https://github.com/zebook/zebook)
 
 ## 政治敏感
 
@@ -38,11 +41,4 @@
 github管理员删除公告
 
 [中国互联网协会要求github删除相关政治人物信息](https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md)
-
-
-
-## kindle电子书telegram小书圈
-在telegram发现了一个提供大量免费电子书下载的kindle书群,以及作者GitHub项目，分享给大家。
-* telegram群组： https://t.me/zebook
-* github项目：https://github.com/zebook/zebook
 
