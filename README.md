@@ -8,6 +8,19 @@
 ## 有内容请发issue
 
 我好像明白了什么...如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
+
+
+## 政治敏感
+
+展现的删除部分只是的冰山一角。
+
+### 知识讨论
+
+* <s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
+
+### github
+
+
 <!--
 ## 相关维基
 
@@ -20,7 +33,6 @@
 
 展现的只是被删除部分的冰山一角
 
-* <s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
 
 <!--
 ## 新手上互联网奇技淫巧
