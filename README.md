@@ -11,7 +11,7 @@
 
 ## 科学上网
 
-方式与技巧
+[**重点**]方式与技巧
 
 * [基于gitbook发布《科学上网》](https://loremwalker.github.io/fq-book/)
 * [如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book)
