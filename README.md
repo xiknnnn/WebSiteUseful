@@ -28,7 +28,7 @@
 
 ps:
 
-另在telegram上，发现[kindle群组](https://t.me/zebook),以及[书群的github项目](https://github.com/zebook/zebook)
+另在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
 ## 政治敏感
 
