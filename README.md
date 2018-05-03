@@ -22,8 +22,6 @@
 * [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)     
 * [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)  
 
-有内容请发issue
-
 如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；
 
 ps:
