@@ -11,12 +11,12 @@
 
 ## 科学上网
 
-[**重点**]方式与技巧
+【**重点**】方式与技巧
 
 * [基于gitbook发布《科学上网》](https://loremwalker.github.io/fq-book/)
 * [如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book)
 
-[**可选**]入门视频教程
+【**可选**】入门视频教程
 
 * [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)   
 * [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)     
