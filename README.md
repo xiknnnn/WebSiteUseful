@@ -9,7 +9,7 @@
 
 ### 方式与技巧
 
-[科学上网的方式与技巧](https://loremwalker.github.io/fq-book/)
+[《科学上网》基于gitbook发布](https://loremwalker.github.io/fq-book/)
 
 ### 入门视频教程
 
