@@ -5,7 +5,20 @@
 **仅面向海外华人用户，中国境内居民禁止使用，并请立即关闭本网站！分享仅进行科研学习，切勿用于其他用途。**
 
 
-## 有内容请发issue
+
+
+##
+
+
+## 新手上互联网奇技淫巧
+
+* 分享网址或软件下载网址被dns劫持、污染与封锁ip相对来说越来越少
+* 免费科学上网成了核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
+* 以上两点所以你需要了解与[上网方法&技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
+
+
+
+### 有内容请发issue
 
 我好像明白了什么...如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
 
@@ -24,11 +37,6 @@
 
 
 
-## 新手上互联网奇技淫巧
-
-* 分享网址或软件下载网址被dns劫持、污染与封锁ip相对来说越来越少
-* 免费科学上网成了核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
-* 以上两点所以你需要了解与[上网方法&技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
 
 
 ## 新手入门教程下载地址：  
