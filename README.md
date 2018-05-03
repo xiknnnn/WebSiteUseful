@@ -22,9 +22,7 @@
 * [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)     
 * [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)  
 
-如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；
-
-ps:另在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
+如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
 ## 政治敏感
 
