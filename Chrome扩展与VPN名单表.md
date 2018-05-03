@@ -40,7 +40,9 @@ vpn|使用限制|
 |[Cisco Anyconnect](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client/tsd-products-support-series-home.html)|需要提供服务器账户|
 
 
-附录：vpn&proxy配置站点
+附录
+
+vpn配置站点
 
 * https://whoer.net
 * https://www.vpnbook.com/freevpn
