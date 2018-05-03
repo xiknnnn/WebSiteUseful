@@ -15,7 +15,7 @@
 
 【**重点**】方式与技巧
 
-* [基于gitbook发布《科学上网》](https://github.com/loremwalker/fq-book)
+* [基于gitbook发布《科学上网》](http://loremwalker.github.io/fq-book)
 * [如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book/tree/gh-pages)
 
 【**可选**】入门视频教程
