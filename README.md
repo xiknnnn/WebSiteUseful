@@ -13,7 +13,7 @@
 
 方式与技巧
 
-* [《科学上网》基于gitbook发布](https://loremwalker.github.io/fq-book/)
+* [基于gitbook发布《科学上网》](https://loremwalker.github.io/fq-book/)
 * [部署gitbook本书，离线阅读](https://github.com/loremwalker/fq-book)
 
 入门视频教程
