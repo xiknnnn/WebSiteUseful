@@ -11,31 +11,31 @@
 
 ## 科学上网
 
-### 方式与技巧
+方式与技巧
 
-[《科学上网》基于gitbook发布](https://loremwalker.github.io/fq-book/)
+* [《科学上网》基于gitbook发布](https://loremwalker.github.io/fq-book/)
+* [部署gitbook离线阅读本书](https://github.com/loremwalker/fq-book)
 
-### 入门视频教程
+入门视频教程
 
-[局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
-[蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)    
-[蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)  
+* [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)   
+* [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)     
+* [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)  
 
+ 有内容请发issue
 
-### 有内容请发issue
-
-我好像明白了什么...如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
+如有疑问或网或是好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
 
 
 ## 政治敏感
 
 展现的删除部分只是的冰山一角，但非常典型。
 
-### 知识讨论
+知识讨论
 
 * <s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
 
-### github管理员删除公告
+github管理员删除公告
 
 [中国互联网协会要求github删除相关政治人物信息](https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md)
 
