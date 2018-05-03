@@ -35,7 +35,7 @@
 
 * <s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
 
-### github管理员删除通知
+### github管理员删除公告
 
 [中国互联网协会要求github删除相关政治人物信息](https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md)
 
