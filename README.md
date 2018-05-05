@@ -31,9 +31,13 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 展现的删除部分只是的冰山一角，但非常典型。
 
+BBC新闻
+
+[普京利用中国防火墙技术控制俄罗斯网络](http://www.bbc.com/zhongwen/simp/china/2016/11/161129_russia_china_internet)
+
 知识讨论
 
-* <s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
+<s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
 
 github管理员删除公告
 
