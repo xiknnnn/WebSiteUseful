@@ -29,8 +29,6 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 ## 政治敏感
 
-展现的删除部分只是的冰山一角，但非常典型。
-
 BBC新闻
 
 [普京利用中国防火墙技术控制俄罗斯网络](http://www.bbc.com/zhongwen/simp/china/2016/11/161129_russia_china_internet)
