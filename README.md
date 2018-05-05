@@ -29,6 +29,10 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 ## 政治敏感
 
+防火长城
+
+[防火长城-维基百科](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)
+
 BBC新闻
 
 [普京利用中国防火墙技术控制俄罗斯网络](http://www.bbc.com/zhongwen/simp/china/2016/11/161129_russia_china_internet)
