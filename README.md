@@ -7,6 +7,9 @@
 </p>
 <hr>
 
+## 公告
+近期由于需要调整博客源码，由于主站点的影响，请看[如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book/tree/gh-pages)
+
 
 ## 科学上网
 
