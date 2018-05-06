@@ -2,6 +2,8 @@
 
 * https://repo.fdzh.org/chrome/exe/
 
+* http://www.chromeliulanqi.com/
+
 
 ## chrome扩展下载
 
