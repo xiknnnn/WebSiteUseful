@@ -1,4 +1,5 @@
 
+* https://skyssh.com
 * https://sshdropbear.net/
 * https://speedssh.com/
 * https://fastssh.com/
