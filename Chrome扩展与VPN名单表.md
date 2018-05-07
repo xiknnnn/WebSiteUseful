@@ -26,9 +26,9 @@ vpn|使用限制|
 |[zenmate](https://zenmate.com/)|付费|
 |[nordvpn](https://nordvpn.com/zh/)|付费|
 |[ExpressVPN](https://www.expressvpn.com)|付费|
-|[protonvpn](https://protonvpn.com/download/)|付费|
 |[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
+|[protonvpn](https://protonvpn.com/download/)|免费限制国家与设备但不限流量<br>独立专属邮箱<br>试用7天高级账户|
 |[devpn](https://devpn.info/)| 一小时更换一次密码<br>服务器以及协议上的限制|
 |[goldenkey](https://www.safasti.net/#download)|试用3天|
 |[Viscosity](https://www.sparklabs.com/viscosity/)|试用30天需要配置文件|
