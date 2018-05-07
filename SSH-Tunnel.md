@@ -1,14 +1,14 @@
 
 * https://sshdropbear.net/
-* http://speedssh.com/
+* https://speedssh.com/
 * https://fastssh.com/
-* http://www.mytunneling.com/
-* http://createssh.com/
+* https://www.mytunneling.com/
+* https://createssh.com/
 * https://bestvpnssh.com/
-* http://contassh.com/
-* http://www.sshagan.net/
-* http://sshfree.net/
-* http://www.portssh.com/
-* http://www.jetssh.com/
-* http://sshudp.com/
-* http://www.vpnjantit.com/
+* https://contassh.com/
+* https://www.sshagan.net/
+* https://sshfree.net/
+* https://www.portssh.com/
+* https://www.jetssh.com/
+* https://sshudp.com/
+* https://www.vpnjantit.com/
