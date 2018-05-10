@@ -9,7 +9,7 @@ chrome代理插件|使用限制|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
 |[privatix](https://privatix.com/)|免费|
 |[Better net](http://betternet.co/)|完全免费|
-|[tuxler](https://tuxler.com/)|完全免费|
+|[tuxler](https://tuxler.com/)|免费|
 |[ip unblock](http://ipunblock.com/)|完全免费|
 |[ininja Free Proxy](https://ininja.org)|完全免费|
 |[Green-Hub-Proxy](https://github.com/pablocc1979/Green-Hub-Proxy/issues)|一小时更换一次密码|
