@@ -13,8 +13,8 @@
 
 方式与技巧
 
-* [基于gitbook发布《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)
 * [如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book/tree/gh-pages)
+* [基于gitbook发布《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)
 
 ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
