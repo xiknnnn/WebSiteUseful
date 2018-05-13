@@ -1,4 +1,4 @@
-![](Test/4test.jpg)
+![](Test/4test.png)
 <h1 align="center"> 免责声明 </h1>
 
 <p align="center">
