@@ -19,7 +19,10 @@
 
 ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
+<!--
 ## 政治敏感
+
+关于墙作的恶实在太多了，懒得再说了，注释算了，看着实在不和谐，面对一个无下限的光伟正还能说什么呢？
 
 GFW
 
@@ -36,4 +39,5 @@ BBC新闻
 github管理员删除公告
 
 [中国互联网协会要求github删除相关政治人物信息](https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md)
+-->
 
