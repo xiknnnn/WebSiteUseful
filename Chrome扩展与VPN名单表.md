@@ -28,7 +28,7 @@ vpn|使用限制|
 |[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
 |[speedify](https://speedify.com/)|1G流量限制|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
-|[protonvpn](https://protonvpn.com/download/)|免费限制较多但不限流量<br>试用3天高级账户，1天只限6个半小时|
+|[protonvpn](https://protonvpn.com/download/)|免费限制较多但不限流量<br>试用3天高级账户，只限6个半小时|
 |[devpn](https://devpn.info/)| 一小时更换一次密码<br>服务器以及协议上的限制|
 |[goldenkey](https://www.safasti.net/#download)|试用3天|
 |[Viscosity](https://www.sparklabs.com/viscosity/)|试用30天需要配置文件|
