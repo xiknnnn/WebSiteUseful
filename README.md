@@ -10,12 +10,16 @@
 
 ## 科学上网
 
-书中已经提到，工具总会有过时的一天，但方法却可以一直用于实践，且特别对如何免费科学上网基本上已经写得很全了
+打不开VPN官网下载？打不开ss分享站点？怎么使用ss、v2ray？怎样获取chromeID下载插件？如何无需信用卡等各类信息，免费搭建拥有2T流量的SS服务器？这一切的一切都在基于gitbook发布的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需离线阅读，请下载[此书源码](https://github.com/loremwalker/fq-book/tree/gh-pages)进行gitbook本地部署。
 
-方式与技巧
+
+<!--书中已经提到，工具总会有过时的一天，但方法却可以一直用于实践，且特别对如何免费科学上网基本上已经写得很全了-->
+
+<!--方式与技巧
 
 * [如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book/tree/gh-pages)
 * [基于gitbook发布《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)
+-->
 
 ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
