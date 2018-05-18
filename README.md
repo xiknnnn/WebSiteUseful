@@ -12,11 +12,11 @@
 
 打不开VPN官网下载？  
 打不开ss账号分享网站？  
-怎样及时获取镜像站点？  
-怎么使用ss、v2rayf翻墙？  
+怎样及时获取镜像站点？   
+怎么使用ss、v2rayf翻墙？   
 怎么使用SSH进行科学上网？  
-怎样获取chromeID下载插件？  
-如何通过云平台建立以及部署自己的ss分享站点？
+怎样获取chromeID下载插件？  
+如何通过云平台建立以及部署自己的ss分享站点？  
 如何无需信用卡等各类信息，免费搭建拥有2T流量的SS服务器？
 
 这一切的一切都在基于gitbook发布的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需离线阅读，请下载[此书源码](https://github.com/loremwalker/fq-book/tree/gh-pages)进行本地部署。
