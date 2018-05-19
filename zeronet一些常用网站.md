@@ -9,3 +9,7 @@ Kindle电子书：
 中文导航：
 
 * http://127.0.0.1:43110/1NzWeweqJ32aRVdM5UzFnYCszuvG5xV3vS
+
+零搜索
+
+* https://www.zerogate.tk/lingdu.bit
