@@ -20,6 +20,7 @@
 ## 可用站点
 
 * https://en.ss8.fun
+* http://freeoutline.org/zh
 * https://52ssr.cn
 * https://newdoub.com
 * https://ss.ishadowx.com
