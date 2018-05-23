@@ -22,7 +22,6 @@
 * https://en.ss8.fun
 * http://freeoutline.org/zh
 * https://52ssr.cn
-* https://newdoub.com
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
 * https://www.nutgeek.com/ssshadowsocks
@@ -42,7 +41,6 @@
 ## 镜像站点
 
 * https://trial.ssbit.win
-* https://doub.loan
 * http://free-ss.tk
 
 ## 科学访问
@@ -74,8 +72,10 @@
 https://shadowsocksph.space
 https://free.4kvpn.com
 https://freess.pw
+https://doub.loan
 https://freemz.tk/t/5
 http://www.honsuv.com/?post=90
+ https://newdoub.com
 -->
 <!--
 藏
