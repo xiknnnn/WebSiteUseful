@@ -16,3 +16,5 @@
 ## github徽章
 
 * https://shields.io/
+
+* https://emojipedia.org/ 嵌入式图片
